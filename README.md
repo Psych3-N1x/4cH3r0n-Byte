@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @visiting-xss-sql or userxxx04066 on my discord account
+- 👋 Hi, I’m @visiting-xss-sql
 - Please note: This GitHub account is currently in its initial phase, serving as a preliminary portfolio.
 - While updates may be infrequent at present, it is slated for significant expansion and refinement as new projects are introduced and developed.
 -  The repository structure and content will evolve to reflect a comprehensive showcase of my advancing skills and innovative contributions in the field of information technology.
