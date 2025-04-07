@@ -4,3 +4,4 @@
 -  The repository structure and content will evolve to reflect a comprehensive showcase of my advancing skills and innovative contributions in the field of information technology.
 - 👀 I’m interested in web development, web security, OSINT (Open Source Intelligence), and exploring the latest trends in cybersecurity.
 - 🔥 This repository will be populated with a curated selection of tools and scripts that I have developed by myself.
+- Look my discord server : https://discord.gg/GsARdNqSVh
